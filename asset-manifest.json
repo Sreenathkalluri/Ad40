@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ad40/static/css/main.e59e5bee.css",
+    "main.js": "/Ad40/static/js/main.df447758.js",
+    "static/js/453.0d39b126.chunk.js": "/Ad40/static/js/453.0d39b126.chunk.js",
+    "static/media/img7.jpg": "/Ad40/static/media/img7.508501509c3035bd3cdc.jpg",
+    "static/media/img6.jpg": "/Ad40/static/media/img6.33afdf108b026fda04c0.jpg",
+    "static/media/backgroundImage.jpg": "/Ad40/static/media/backgroundImage.4173131f848d9a3caaf2.jpg",
+    "static/media/img2.jpg": "/Ad40/static/media/img2.b9021c1edd0389973bb1.jpg",
+    "static/media/img3.jpg": "/Ad40/static/media/img3.a41ff7af178f7b3d2827.jpg",
+    "static/media/img8.jpg": "/Ad40/static/media/img8.837cc916ac0d40acb43f.jpg",
+    "static/media/img1.jpg": "/Ad40/static/media/img1.2f23fff6dd2b85d0be59.jpg",
+    "static/media/img5.jpg": "/Ad40/static/media/img5.bc459d6f93b64a9431b2.jpg",
+    "static/media/img4.jpg": "/Ad40/static/media/img4.494786fc378e39ccb517.jpg",
+    "index.html": "/Ad40/index.html",
+    "main.e59e5bee.css.map": "/Ad40/static/css/main.e59e5bee.css.map",
+    "main.df447758.js.map": "/Ad40/static/js/main.df447758.js.map",
+    "453.0d39b126.chunk.js.map": "/Ad40/static/js/453.0d39b126.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e59e5bee.css",
+    "static/js/main.df447758.js"
+  ]
+}
